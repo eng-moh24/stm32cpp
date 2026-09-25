@@ -1,0 +1,9 @@
+../Core/Src/mpu.cpp:5:7:float MPU::computeScaled(const float&, float, float)	1
+../Core/Src/mpu.cpp:10:7:float MPU::computeRoll(const MPU_DATA&)	1
+../Core/Src/mpu.cpp:15:7:float MPU::computePitch(const MPU_DATA&)	1
+../Core/Src/mpu.cpp:20:7:float MPU::complementaryFilter(float, float, float, float, float)	1
+../Core/Src/mpu.cpp:25:6:void MPU::init()	2
+../Core/Src/mpu.cpp:44:22:MPU::readData()::<lambda(float, float)>	2
+../Core/Src/mpu.cpp:37:6:bool MPU::readData()	4
+../Core/Src/mpu.cpp:87:10:MPU_DATA MPU::getAccurateData()	2
+../Core/Src/mpu.cpp:109:6:void MPU::updateAngles(float)	4

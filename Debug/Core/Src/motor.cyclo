@@ -1,0 +1,5 @@
+../Core/Src/motor.cpp:3:6:void Motor::init()	1
+../Core/Src/motor.cpp:11:6:void Motor::softstart(Direction, uint16_t)	5
+../Core/Src/motor.cpp:42:6:void Motor::softstop(uint16_t)	3
+../Core/Src/motor.cpp:59:6:void Motor::stop()	1
+../Core/Src/motor.cpp:68:6:void Motor::move(Direction, float)	4

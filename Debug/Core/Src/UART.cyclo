@@ -1,0 +1,1 @@
+../Core/Src/UART.cpp:5:19:HAL_StatusTypeDef UART::send(const char*)	2
